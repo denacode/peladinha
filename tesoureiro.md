@@ -1,0 +1,2 @@
+# Tesoureiro
+    - jogador

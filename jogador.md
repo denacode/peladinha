@@ -1,0 +1,3 @@
+# Jogador
+    - nome
+    - posição
