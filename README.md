@@ -1,4 +1,5 @@
 # Peladinha
+### uma aplicação de administração de peladas de futebol utilizando DDD.
 
 ## Local
 	- Onde será executada a partida
