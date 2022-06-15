@@ -15,7 +15,6 @@ public class Address {
         this.street = street;
     }
 
-
     private String checkNumberIsNullOrEmpty(String number){
         if(number.equals("")){
             number = "S/N";
